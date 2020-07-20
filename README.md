@@ -1,7 +1,7 @@
 # Breadth First Search (BFS)
 
 This repo contains a [Jupyter notebook](https://jupyter.org/) with an example 
-and visualization ([using matplotlib](https://matplotlib.org/)) of a BFS using 
+and visualization ([using matplotlib](https://matplotlib.org/)) of a BFS. 
 
 [Click here to view it](https://github.com/ohaddahan/bfs/blob/master/bfs.ipynb).
 
