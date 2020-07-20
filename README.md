@@ -3,6 +3,8 @@
 This repo contains a [Jupyter notebook](https://jupyter.org/) with an example 
 and visualization ([using matplotlib](https://matplotlib.org/)) of a BFS using 
 
+[Click here to view it](https://github.com/ohaddahan/bfs/blob/master/bfs.ipynb).
+
 ### References
 1. [Jupyter notebook](https://jupyter.org/)
 2. [matplotlib](https://matplotlib.org/) 
